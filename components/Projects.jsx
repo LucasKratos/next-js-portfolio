@@ -9,6 +9,7 @@ import ExpenseTracker from '../public/assets/projects/presupuesto1.jpg'
 import cryptoImg from '../public/assets/projects/cryto.jpg'
 import Fotografy from '../public/assets/projects/fotografia.jpg'
 import ProjectItem from './ProjectItem';
+import Food from '../public/assets/projects/fast-food.png';
 
 const Projects = () => {
   return (
@@ -65,6 +66,13 @@ const Projects = () => {
             backgroundImg={SimonImg}
             projectUrl='/simons'
             tech='Javascript'
+
+          />
+            <ProjectItem
+            title='Fast Food'
+            backgroundImg={Food}
+            projectUrl='/food'
+            tech='React - Tailwind - ArrayMethods'
 
           />
         </div>
