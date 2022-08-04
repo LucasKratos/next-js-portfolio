@@ -7,7 +7,7 @@ import ReactJS from '../public/assets/skills/react.png'
 import Tail from '../public/assets/skills/tailwind.png'
 import Git from '../public/assets/skills/github1.png'
 import NodeJS from '../public/assets/skills/node.png'
-import MySql from '/../public/assets/skills/mysql.png'
+import MySql from '../public/assets/skills/mysql.png'
 
 export const Skills = () => {
   return (
