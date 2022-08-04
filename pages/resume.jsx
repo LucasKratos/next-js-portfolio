@@ -16,7 +16,7 @@ const resume = () => {
 
       <div className='max-w-[940px] mx-auto p-2 pt-[120px] font-bold'>
         <h2 className='text-center'>Resume</h2>
-        <h2 className='text-center text-blue-600 '><a href="/Lucas-Spagnoli-English-CV(2).pdf" download="Lucas-Spagnoli-English-CV(2).pdf">Download CV Here</a></h2>
+        <h2 className='text-center text-blue-600 '><a href="/Lucas-Spagnoli-English-CV.pdf" download="Lucas-Spagnoli-English-CV(2).pdf">Download CV Here</a></h2>
         <div className='bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center'>
           <h2 className='text-center'>Lucas Berzobohaty</h2>
           <div className='flex'>

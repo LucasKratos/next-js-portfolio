@@ -48,7 +48,7 @@ const Main = () => {
                     </div>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                     <a
-                        href='/Lucas-Spagnoli-English-CV(2).pdf'
+                        href='/Lucas-Spagnoli-English-CV.pdf'
                         target='_blank'
                         rel='noreferrer'
                         ><BsFillPersonLinesFill />
