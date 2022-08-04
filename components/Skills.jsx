@@ -1,7 +1,12 @@
 import React from 'react'
 import Image from 'next/image'
 import HTML from '../public/assets/skills/html.png'
-
+import CSS from '../public/assets/skills/css.png' 
+import JS from '../public/assets/skills/javascript.png'  
+import ReactJS from '../public/assets/skills/react.png' 
+import Tail from '../public/assets/skills/tailwind.png'
+import Git from '../public/assets/skills/github1.png'
+import NodeJS from '../public/assets/skills/node.png'
 
 export const Skills = () => {
   return (
@@ -32,7 +37,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/css.png'     
+                                src={CSS}    
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
@@ -48,7 +53,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/javascript.png'     
+                                src={JS}  
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
@@ -64,7 +69,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/react.png'     
+                                src={ReactJS}  
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
@@ -80,7 +85,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/tailwind.png'     
+                                src={Tail}    
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
@@ -96,7 +101,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/github1.png'     
+                                src={Git}
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
@@ -112,7 +117,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/node.png'     
+                                src={NodeJS}
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
