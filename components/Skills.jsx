@@ -7,6 +7,7 @@ import ReactJS from '../public/assets/skills/react.png'
 import Tail from '../public/assets/skills/tailwind.png'
 import Git from '../public/assets/skills/github1.png'
 import NodeJS from '../public/assets/skills/node.png'
+import MySql from '/../public/assets/skills/mysql.png'
 
 export const Skills = () => {
   return (
@@ -133,7 +134,7 @@ export const Skills = () => {
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
                             <Image 
-                                src='/../public/assets/skills/mysql.png'     
+                                src={MySql}     
                                 width='64px' 
                                 height='64px' 
                                 alt='/' 
