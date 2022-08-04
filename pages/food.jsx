@@ -26,7 +26,10 @@ const food = () => {
         <div className='col-span-4'>
           <p>Project</p>
           <h2>Overview</h2>
-          <p> App once again stylized with Tailwind. It is a responsive App where I use flexbox. I pull all the data/images from the data.js file to simulate an API response. Filter through data/images using Javascript's Filter() method
+          <p> 
+            App once again stylized with Tailwind. It is a responsive App where I use flexbox.
+            I pull all the data/images from the data.js file to simulate an API response.
+            Filter through data/images using Javascript's Filter() method
           </p>
           <a
             href='https://github.com/LucasKratos/fast-food-React-Tailwind'
