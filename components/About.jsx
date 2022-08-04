@@ -18,7 +18,7 @@ const About = () => {
           <p className='py-2 text-gray-600'>
             I have spent the last 10 years doing differents activities like working as a
             trainer and coach of many sports, and working in human resouerces. I have always had a knack for
-            technology and working with computers. In 2019 I started working
+            technology and working with computers. In 2020 I started working
             with HTML and CSS to make some minor edits on a small business
             website that I was operating. What I thought was just a few small
             edits turned into a love for programming.
